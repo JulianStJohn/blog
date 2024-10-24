@@ -1,2 +1,2 @@
 # blog
-Blog content and a very minimal parsing/taxonomy skeleton 
+Articles and blog content and a very minimal parsing/taxonomy skeleton 
